@@ -1,6 +1,0 @@
-# List of source files containing translatable strings.
-# Please keep this file sorted alphabetically.
-data/io.github.shbozz.Solitaire.desktop.in
-data/io.github.shbozz.Solitaire.metainfo.xml.in
-data/io.github.shbozz.Solitaire.gschema.xml
-src/window.ui

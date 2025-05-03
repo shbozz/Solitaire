@@ -1,0 +1,11 @@
+html {
+    background: #131416;
+    color: white;
+    font-family: "Adwaita Sans", Inter, sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    align-self: center;
+}
