@@ -4,8 +4,40 @@ html {
     font-family: "Adwaita Sans", Inter, sans-serif;
 }
 
+h1 {
+    text-align: center;
+}
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     align-self: center;
+    float: left;
+}
+
+.active {
+    background-color: #4b4b4b;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2b2b2b;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 14px 16px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+li a:hover {
+    background-color: #3b3b3b;
 }
